@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Gulshankumawat238/GulshanKumawat238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋 I am Gulshan-Kumawat</h1>
 
-Here are some ideas to get you started:
+<div align="center">   
+    
+  🔭 I’m currently working on Tableau
+  🌱 I’m currently learning Data Analysis
+  💬 Ask me about Data Analysis
+  😄 Pronouns: He/Him
+  ⚡ Fun fact: Data analytics turns chaos into clarity, one byte at a time!
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gulshan-Kumawat&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="Gulshan-Kumawat"/>
+  <img width=340 src="https://github-readme-stats.vercel.app/api/top-langs?username=Gulshan-Kumawat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gulshan-Kumawat"/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools⚒️ </h2>
+<br clear="both"><br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,html,css,javascript,photoshop,php,python,java,c,c++" /><br>
+</div>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=2473F7FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
+</h3>
+
+<br/>
