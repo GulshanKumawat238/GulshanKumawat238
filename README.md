@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋 I am Gulshan-Kumawat</h1>
 
-<div align="center">   
+<div align="center">    
     
-  🔭 I’m currently working on Tableau
-  🌱 I’m currently learning Data Analysis
-  💬 Ask me about Data Analysis
-  😄 Pronouns: He/Him
-  ⚡ Fun fact: Data analytics turns chaos into clarity, one byte at a time!
+- 🔭 I’m currently working on Tableau
+- 🌱 I’m currently learning Data Analysis
+- 💬 Ask me about Data Analysis
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Data analytics turns chaos into clarity, one byte at a time!
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
